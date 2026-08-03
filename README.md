@@ -45,14 +45,6 @@ Student-Grade-Management-System/
 2. Open the project folder.
 3. Open `index.html` in your web browser.
 
-## Screenshots
-
-Add screenshots of your application here.
-
-## Live Demo
-
-Add your GitHub Pages, Netlify, or Vercel link here.
-
 ## Author
 
 Abdlgeniy oumer
